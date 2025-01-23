@@ -1,3 +1,7 @@
+About Me:
+software engineering student at Addis Ababa Science and Technology University
+🌟 Interests: Technology and creative problem-solving.
+💻 Current focus: Software development and AI projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_ri_l) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Meron-Getaneh) 
