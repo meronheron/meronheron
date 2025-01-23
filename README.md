@@ -1,4 +1,4 @@
-About Me:
+## About Me:
 software engineering student at Addis Ababa Science and Technology University
 🌟 Interests: Technology and creative problem-solving.
 💻 Current focus: Software development and AI projects.
